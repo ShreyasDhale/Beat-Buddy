@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596957292503",
+    "project_id": "beat-buddy-3073a",
+    "storage_bucket": "beat-buddy-3073a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596957292503:android:6c891301ef9bcf092e8d92",
+        "android_client_info": {
+          "package_name": "com.example.beat_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPvR7q00tYbdo-kZEUwJASFk5Hj5i-l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
